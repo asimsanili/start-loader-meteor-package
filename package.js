@@ -4,7 +4,7 @@ Package.describe({
   // Brief, one-line summary of the package.
   summary: 'Show a centered loading spinner while application code is downloading.',
   // URL to the Git repository containing the source code for this package.
-  git: 'https://github.com/DavOnGit/start-loader-meteor-package.git',
+  git: 'https://github.com/asimsanili/start-loader-meteor-package.git',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
