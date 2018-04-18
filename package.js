@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'daviz:start-loader',
-  version: '0.0.4',
+  name: 'asimsanili:start-loader',
+  version: '1.0.0',
   // Brief, one-line summary of the package.
   summary: 'Show a centered loading spinner while application code is downloading.',
   // URL to the Git repository containing the source code for this package.
